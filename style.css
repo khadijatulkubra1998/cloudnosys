@@ -1,0 +1,36 @@
+img {
+    width: 100%;
+    padding: 5px;
+    color: white;
+
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 5em;
+    background-image: url("./background.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    width: 21cm;
+    height: 2480px;
+    margin: 30mm 45mm 30mm 45mm; 
+}
+.heading{
+    color: white;
+    font-size: 4.5rem;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+div{
+    padding-bottom: 5em;
+  
+}
+.info {
+    font-size: 30px;
+}
